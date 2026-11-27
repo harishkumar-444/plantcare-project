@@ -7,7 +7,7 @@ A Flutter application to help users take care of plants.
 - Plant reminders
 - Care tips
 - Health tracking
--weather tracking
+
 ## Tech Stack
 - Flutter
 - Dart
